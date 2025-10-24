@@ -1,1 +1,1 @@
-visit the portfolio here
+visit the portfolio here https://saiarceo.github.io/MidtermPortfolio/
