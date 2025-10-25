@@ -135,6 +135,7 @@ day = int(input("Enter day: "))
         Output:
 
 
-    <img width="615" height="621" alt="image" src="https://github.com/user-attachments/assets/cf8002ee-3905-4fc8-ba1d-4bd22646e68a" />
+<img width="615" height="621" alt="image" src="https://github.com/user-attachments/assets/cf8002ee-3905-4fc8-ba1d-4bd22646e68a" />
+
 
 
