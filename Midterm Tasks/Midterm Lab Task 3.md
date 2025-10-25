@@ -1,4 +1,5 @@
-<h1>Shopping Cart Program</h1>
+<h1>Midterm Lab Task 3</h1>
+<h2>Shopping Cart Program</h2>
 
 
 Source Code:
@@ -50,3 +51,4 @@ Output:
 
 
 <img width="442" height="725" alt="image" src="https://github.com/user-attachments/assets/c972082e-11e3-4cd3-8507-38cd1211f922" />
+
