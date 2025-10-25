@@ -1,4 +1,4 @@
-Midterm Lab Task 1
+<h1>Midterm Lab Task 1</h1>
 
 
 Problem 1. Use Appropriate Escape Sequence( \n, \t \b \ ..etc) for the problem below
@@ -136,6 +136,7 @@ day = int(input("Enter day: "))
 
 
 <img width="615" height="621" alt="image" src="https://github.com/user-attachments/assets/cf8002ee-3905-4fc8-ba1d-4bd22646e68a" />
+
 
 
 
