@@ -1,4 +1,4 @@
-<h1>Midterm Task 2</h1>
+<h1>Midterm Lab Task 2</h1>
 <h4>Problem:</h4>
 
 
@@ -42,3 +42,4 @@ Sample Output 2:
 
 
 <img width="500" height="484" alt="image" src="https://github.com/user-attachments/assets/5ae3b7c4-280b-4054-b179-b7ae415d688b" />
+
